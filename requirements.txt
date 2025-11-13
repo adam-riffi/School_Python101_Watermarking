@@ -1,5 +1,5 @@
-pip
-numpy
-sys
 streamlit
+numpy
 Pillow
+pip
+sys
