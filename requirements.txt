@@ -1,0 +1,6 @@
+pip
+numpy
+opencv
+sys
+streamlit
+Pillow
