@@ -49,7 +49,7 @@ def binary_to_text(binary_str):
 
 def decode_text_from_image(image):
     binary_text = ''
-    rows, cols = image.shape()
+    cols, rows = image.size
 
     for row in range(rows):
         for col in range(cols):
